@@ -57,4 +57,4 @@ python3 test_users_bot.py
 
 ## Автор
 
-Гордеева Вероника ([@vrgordeeva](https://t.me/vrgordeeva)
+Гордеева Вероника ([@vrgordeeva](https://t.me/vrgordeeva))
