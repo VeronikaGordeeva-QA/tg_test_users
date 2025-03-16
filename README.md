@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/menu.png)
+![image](https://github.com/VeronikaGordeeva-QA/tg_test_users/blob/main/static/start.PNG)
 
 После выбора количества пользователей:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/generate.png)
+![image](https://github.com/VeronikaGordeeva-QA/tg_test_users/blob/main/static/generate.PNG)
 
 ## 💻 Технологии
 
