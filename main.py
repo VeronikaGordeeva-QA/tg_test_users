@@ -5,7 +5,7 @@ from faker import Faker
 from telebot import TeleBot, types
 
 
-TOKEN = '7940300286:AAG6yVxTZYmsPAtTJCWkwSojeVpcP8KiHmY'
+TOKEN = 'вставьте_токен'
 bot = TeleBot(TOKEN, parse_mode='html')
 faker = Faker('ru_RU') 
 
